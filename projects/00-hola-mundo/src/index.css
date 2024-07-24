@@ -1,7 +1,0 @@
-body{
-    margin: 0;
-    background: #222;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, Roboto,;
-    display: grid;
-    place-content: center;
-}
